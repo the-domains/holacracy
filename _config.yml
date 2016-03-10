@@ -1,0 +1,28 @@
+name: holacracy
+favicon: null
+layout_spectrum: 0.24196326755918562
+typography_spectrum: 0.45759709109552205
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7159758820198476
+  lightness: 0.10040190466679633
+  saturation: 0.5817610360682011
+  rhythmicContrast: 0.4661882338114083
+purpose: []
